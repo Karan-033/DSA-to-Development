@@ -158,8 +158,8 @@ The condition determines what counts as a match. For an exact match, you could u
 
 ### 7. Complete java example - ArrayExplorer
   This program combines the operations we've learned
+    [Click here](Day-3/ArrayExplorer.java)
 
-    @@@
 ### 8. Connect arrays to Big-O
 This is where our Session 02 learning becomes useful.
 | Operations | Time Complexity | Reason |
