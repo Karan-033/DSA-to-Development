@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="344" viewBox="0 0 780 344" role="img" aria-labelledby="title desc">
+  <title id="title">Linear Search Example</title>
+  <desc id="desc">Search for 30 in the array 10, 25, 30, 45, 50. The target is found at index 2 after three comparisons.</desc>
+  <rect x="1" y="1" width="778" height="342" rx="13" fill="#050505" stroke="#303030"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#e8e8e8">
+    <text x="13" y="31" font-size="15" font-weight="700">Example</text>
+    <text x="13" y="69" font-size="14" fill="#bdbdbd">Array</text>
+    <text x="766" y="69" font-size="14" text-anchor="end" fill="#bdbdbd">Target = 30</text>
+    <g font-size="16" font-weight="700" text-anchor="middle">
+      <text x="85" y="116">10</text><text x="235" y="116">25</text>
+      <text x="385" y="116">30</text><text x="535" y="116">45</text><text x="685" y="116">50</text>
+    </g>
+    <rect x="310" y="89" width="146" height="76" rx="9" fill="#147b50"/>
+    <text x="385" y="116" font-size="16" font-weight="700" text-anchor="middle" fill="#ffffff">30</text>
+    <g font-size="14" text-anchor="middle" fill="#d0d0d0">
+      <text x="85" y="153">Index 0</text><text x="235" y="153">Index 1</text>
+      <text x="385" y="153" fill="#ffffff">Index 2</text><text x="535" y="153">Index 3</text><text x="685" y="153">Index 4</text>
+    </g>
+    <g font-size="15">
+      <text x="20" y="194">1</text><text x="44" y="194">Check index 0: 10 ≠ 30</text>
+      <text x="20" y="228">2</text><text x="44" y="228">Check index 1: 25 ≠ 30</text>
+      <text x="20" y="262">3</text><text x="44" y="262">Check index 2: 30 = 30</text>
+    </g>
+    <rect x="13" y="283" width="108" height="20" rx="10" fill="#062a18"/>
+    <text x="67" y="297" text-anchor="middle" font-size="12" fill="#00d878">Found at index 2</text>
+    <text x="13" y="328" font-size="12" fill="#c7c7c7">Three comparisons were needed. The search stops as soon as the target is found.</text>
+  </g>
+</svg>
