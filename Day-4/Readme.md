@@ -11,7 +11,7 @@ Linear Search checks elements one-by-one, from left to right, until it find the 
 If the target is not present, the search checks every element and returns <code>-1</code>.
 
 ### Java Implementation  
-[Click Here] (LinearSearch.java)  
+[Click Here](LinearSearch.java)  
 
 ### Complexity Analysis
 | Case | What Happens | Time |
