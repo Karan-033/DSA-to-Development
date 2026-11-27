@@ -16,3 +16,10 @@ public class LinearSearch {
         System.out.println(linearSearch(numbers, 99));
     }
 }
+
+
+/*
+    Expected Output
+        - 2
+        - -1
+*/
