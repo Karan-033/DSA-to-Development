@@ -6,6 +6,9 @@
 ### What is linear search?
 Linear Search checks elements one-by-one, from left to right, until it find the target or reaches the end.
 
+![Linear Search](../assets/linear-search-example.svg)  
+
+If the target is not present, the search checks every element and returns <code>-1</code>.
 
 ### Java Implementation  
 [Click Here] (LinearSearch.java)  
