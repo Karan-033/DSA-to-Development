@@ -14,7 +14,7 @@ It is:
   `When the amount of data increases, how does the amount of work increase?`  
 That's what Big-O helps us understand.
 
-  ![Time Complexity Growth Chart](assets/Time-complexity.png)
+  ![Time Complexity Growth Chart](../assets/Time-complexity.png)
 
 ### Your five-step complexity-solving method
 This is the method I want you to use every time you analyse a program.
