@@ -41,7 +41,7 @@ Search for 25 in the same array:
 Now <code>low = 2</code> and <code>high = 1</code>. Since <code>low > high</code>, the search stops and return <code>-1</code>.  
 
 ### 4. Java Implementation  
-  [Binary Search](../BinarySearch.java)
+  [Binary Search](BinarySearch.java)
 
 ### 5. Complexity analysis  
   | Case | Time Complexity | Explanation |
